@@ -16,3 +16,12 @@ To visualize and analyze my Spotify listening history, identifying trends in alb
 
 ## Dashboard
 ![overview](https://github.com/user-attachments/assets/42bed584-9f36-4ecb-9a26-188ffd5d3089)
+
+## listening pattern (KPIS)
+- What are the peak listening hours on each day of the week?
+- What is the relationship between average listening time and track frequency?
+- How does the total number of listening hours vary across days of the week?
+- What is the distribution of track frequency?
+- What is the distribution of average listening time?
+- Listening pattern 
+
