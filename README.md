@@ -32,3 +32,7 @@ To visualize and analyze my Spotify listening history, identifying trends in alb
 - Trend Analysis: Tracks the overall growth and decline of album, artist, and track plays over time. Identifies periods of high and low engagement.
 - Popularity Identification: Highlights the most popular albums, artists, and tracks based on total play counts. This informs content strategy and marketing efforts.
 - Year-over-Year Comparison: Measures the change in listening behavior compared to the previous year, revealing growth or decline in specific areas.
+### Detailed Listening Patterns & Engagement
+- Listening Time vs. Track Frequency: Examines the relationship between average listening time and how often tracks are played, revealing user engagement patterns.
+- Track Frequency Distribution: Provides insights into the variety and popularity of tracks being listened to.
+- Average Listening Time Distribution: Reveals the typical length of listening sessions, indicating user preferences for short or long listening periods.
