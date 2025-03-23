@@ -13,3 +13,6 @@ To visualize and analyze my Spotify listening history, identifying trends in alb
 - How has the number of tracks played changed compared to the previous year?
 - What are the top 5 most played tracks?
 - Dashboard - <a href='https://github.com/vivekk00/Spotify_Dashboard/blob/main/overview.png'>View Dashboard<a/>
+
+## Dashboard
+![overview](https://github.com/user-attachments/assets/42bed584-9f36-4ecb-9a26-188ffd5d3089)
