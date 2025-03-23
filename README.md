@@ -26,6 +26,7 @@ To visualize and analyze my Spotify listening history, identifying trends in alb
 - Listening pattern - <a href='https://github.com/vivekk00/Spotify_Dashboard/blob/main/Listening%20pattern.png'> View Listening Pattern</a>
 
 ## Listening pattern
-![Uploading Listening pattern.png…]()
+![Listening pattern](https://github.com/user-attachments/assets/531e1fb7-0064-43fe-af39-159a0f72329f)
+
 
 
