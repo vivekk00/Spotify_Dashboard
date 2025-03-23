@@ -1,4 +1,5 @@
-# Spotify Listening Analysis 
+# Spotify Listening Analysis ![Spotify_Logo_Final](https://github.com/user-attachments/assets/013f81ba-61ff-497e-99da-46c52fb32129)
+
 (Interactive Dashboard creation using PowerBi)
 ## Project Objective: 
 To visualize and analyze my Spotify listening history, identifying trends in album, artist, and track consumption over time.
