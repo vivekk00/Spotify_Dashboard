@@ -6,7 +6,7 @@ To visualize and analyze my Spotify listening history, identifying trends in alb
 ## Dataset used
 - <a href='https://github.com/vivekk00/Spotify_Dashboard/blob/main/spotify_history.csv'>Dataset</a>
 
-## Questions (KPIS)
+## Questions of overview dashboard(KPIS) 
 - How is the number of albums played trending over time?
 - Which artists are most popular based on play count?
 - How is the number of tracks played on weekdays vs. weekends?
