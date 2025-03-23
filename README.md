@@ -23,5 +23,6 @@ To visualize and analyze my Spotify listening history, identifying trends in alb
 - How does the total number of listening hours vary across days of the week?
 - What is the distribution of track frequency?
 - What is the distribution of average listening time?
-- Listening pattern 
+- Listening pattern - <a href='https://github.com/vivekk00/Spotify_Dashboard/blob/main/Listening%20pattern.png'> View Listening Pattern</a>
+- 
 
