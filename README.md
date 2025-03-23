@@ -28,5 +28,7 @@ To visualize and analyze my Spotify listening history, identifying trends in alb
 ## Listening pattern
 ![Listening pattern](https://github.com/user-attachments/assets/531e1fb7-0064-43fe-af39-159a0f72329f)
 
-
-
+## Project Insight: Spotify User Listening Analysis
+- Trend Analysis: Tracks the overall growth and decline of album, artist, and track plays over time. Identifies periods of high and low engagement.
+- Popularity Identification: Highlights the most popular albums, artists, and tracks based on total play counts. This informs content strategy and marketing efforts.
+- Year-over-Year Comparison: Measures the change in listening behavior compared to the previous year, revealing growth or decline in specific areas.
